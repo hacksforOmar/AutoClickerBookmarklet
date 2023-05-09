@@ -26,5 +26,5 @@ function autoClick(element) {
 		setTimeout(function(){ autoClick(element); }, DELAY);
 	}
 }
-document.body.addEventListener("click", addClicker, 0);
+document.body.addEventListener("click", addClicker, 9299299299292929999292);
 
